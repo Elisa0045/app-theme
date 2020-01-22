@@ -11,3 +11,4 @@
 | Contact info | The user can see the contact info, information about the company, newsletter section and the copyright  | Add container, contact info, general info about the services, newsletter section, and the footer | Without changes |
 | Services  page  | Show the services that we offer  | Create a new file "services" and adding the header, sub-header, main page information about the services that the company offer, contact info and footer | Without changes |
 | Contact  page  | Contact area, to fill the form with the name, email and message of the client | Create a new file "contact" and adding the header, sub-header, main page with the form to get in contact with the clients add the button for submit the form, contact info and footer | Without changes |
+| Styling header | Layout header | Layout the: div-class-row element in the header  | Styling the body, header, navbar  |
