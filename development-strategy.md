@@ -9,4 +9,4 @@
 | Features | Show the services that the core features include   | Create the features in two icon's row, and layout the area with font-awesome icon library | Without changes|
 | Info area | Layout the info area, add some image for the web page and styling | Add the new containers for the core features  | Add css property to change the width of the image |
 | Contact info | The user can see the contact info, information about the company, newsletter section and the copyright  | Add container, contact info, general info about the services, newsletter section, and the footer | Without changes |
-| About page  | Add about page that show the information of the company, add a header, sub-header the information of the main page, and the contact info and footer. | Create a new file "about" and adding the header, sub-header, main page information, contact info and footer | Without changes |
+| Services  page  | Show the services that we offer  | Create a new file "services" and adding the header, sub-header, main page information about the services that the company offer, contact info and footer | Without changes |
