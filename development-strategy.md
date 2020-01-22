@@ -8,3 +8,4 @@
 | Showcase area | General info about the page  | Add the container and span:class primary text | Without changes|
 | Features | Show the services that the core features include   | Create the features in two icon's row, and layout the area with font-awesome icon library | Without changes|
 | Info area | Layout the info area, add some image for the web page and styling | Add the new containers for the core features  | Add css property to change the width of the image |
+| Contact info | The user can see the contact info, information about the company, newsletter section and the copyright  | Add container, contact info, general info about the services, newsletter section, and the footer | Without changes |
