@@ -15,3 +15,4 @@
 | Styling showcase area | Layout the color, and the family of the web page in the showcase area | fix the size of the row  | Layout colors, add margins, borders.  |
  Media Queries |The window can fit to the all devices:tablets, smartphones etc, the user can see all the content perfectly. | Without changes  | Adding media queries   |
  | Styling features | Layout the color in the core features area |  Without changes   | Layout color in the features area |
+ | Styling info area | Layout the background image  in the info area |  Without changes   | Add an image, and styling |
