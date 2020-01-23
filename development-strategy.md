@@ -17,3 +17,4 @@
  | Styling features | Layout the color in the core features area |  Without changes   | Layout color in the features area |
  | Styling info area | Layout the background image  in the info area |  Without changes   | Add an image, and styling |
   | Styling company area | Layout the background image  in the company area |  Without changes   | Add an image, and styling |
+  | Styling footer | Layout the footer area |  Without changes   | Styling the background color  |
