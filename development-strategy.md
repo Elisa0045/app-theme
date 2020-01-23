@@ -20,3 +20,4 @@
 | Styling footer | Layout the footer area |  Without changes   | Styling the background color  |
 | Styling about | Layout about |  Without changes   | Add a margin bottom  |
 | Styling services  |Layout the services area |  Without changes   | Change the background in the services area  |
+| Styling contact area   |Layout the contact area |  Without changes   | Styling the background color of the fill form area    |
