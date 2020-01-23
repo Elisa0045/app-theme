@@ -151,7 +151,11 @@ img {
     background:#56a79a;
     color:#fff;
   }
-
+/* page */
+#page{
+    margin-bottom:40px;
+  }
+  
 /* media queries  */
 @media (max-width: 800px) {
   #showcase h1 {
