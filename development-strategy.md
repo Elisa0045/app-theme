@@ -13,9 +13,10 @@
 | Contact  page  | Contact area, to fill the form with the name, email and message of the client | Create a new file "contact" and adding the header, sub-header, main page with the form to get in contact with the clients add the button for submit the form, contact info and footer | Without changes |
 | Styling header | Layout header | Layout the: div-class-row element in the header  | Styling the body, header, navbar  |
 | Styling showcase area | Layout the color, and the family of the web page in the showcase area | fix the size of the row  | Layout colors, add margins, borders.  |
- Media Queries |The window can fit to the all devices:tablets, smartphones etc, the user can see all the content perfectly. | Without changes  | Adding media queries   |
- | Styling features | Layout the color in the core features area |  Without changes   | Layout color in the features area |
- | Styling info area | Layout the background image  in the info area |  Without changes   | Add an image, and styling |
-  | Styling company area | Layout the background image  in the company area |  Without changes   | Add an image, and styling |
-  | Styling footer | Layout the footer area |  Without changes   | Styling the background color  |
-  | Styling about | Layout about |  Without changes   | Add a margin bottom  |
+ Media Queries |The window can fit to the all devices:tablets, smartphones etc, the user can see all the content perfectly. | Without changes  | Adding media queries   | 
+| Styling features | Layout the color in the core features area |  Without changes   | Layout color in the features area |
+| Styling info area | Layout the background image  in the info area |  Without changes   | Add an image, and styling |
+| Styling company area | Layout the background image  in the company area |  Without changes   | Add an image, and styling |
+| Styling footer | Layout the footer area |  Without changes   | Styling the background color  |
+| Styling about | Layout about |  Without changes   | Add a margin bottom  |
+| Styling services  |Layout the services area |  Without changes   | Change the background in the services area  |
